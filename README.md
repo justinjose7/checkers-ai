@@ -6,6 +6,7 @@ AI for Checkers written in Java.
 * Option to simulate AI versus AI
 * Users select move from a list of legal moves
 * Users can define the amount of time AI can search for its best move
+* Option to load an existing game board
 
 ## Screenshots
 Start new game
