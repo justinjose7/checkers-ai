@@ -1,14 +1,21 @@
 # Checkers-AI
 AI for Checkers written in Java.
 
-## Screenshots
-
-
 ## Game Features
 * Option for user to verse AI
 * Option to simulate AI versus AI
 * Users select move from a list of legal moves
 * Users can define the amount of time AI can search for its best move
+
+## Screenshots
+Start new game
+
+![Demo-01](https://github.com/justinjose7/checkers-ai/blob/master/readme_assets/begin_game_01.png)
+
+Player turn
+
+![Demo-02](https://github.com/justinjose7/checkers-ai/blob/master/readme_assets/next_move_02.png)
+
 
 ## Compilation/Usage Instructions
 * The program was originally compiled in Cygwin (javac and JRE required, JDK 11 used). 
