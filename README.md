@@ -1,5 +1,5 @@
 # Checkers-AI
-AI for Checkers written in Java.
+AI for Checkers written in Java for ECE 469 Artificial Intelligence.
 
 ## Game Features
 * Option for user to verse AI
