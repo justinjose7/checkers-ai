@@ -1,4 +1,3 @@
-
 main:
 	rm -f checkers/*.class
 	javac checkers/Engine.java
