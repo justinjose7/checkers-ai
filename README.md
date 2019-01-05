@@ -66,5 +66,3 @@ functions for the heuristic. The class can be used to instantiate a new Computer
 * Move.java makes the getLegalMoves function in the Game class possible.
 * Pair.java is used for inserting captured positions into the hash-set for each Move
 * Engine.java contains the main method which handles the game logic and interaction between players
-
-## Example gameplay screenshot for reference
